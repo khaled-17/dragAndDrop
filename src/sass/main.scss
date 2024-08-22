@@ -1,3 +1,4 @@
-*  {
-    padding: auto;
- }
+@use "./layouts/global";
+@use "./layouts/app";
+@use "./layouts/fields";
+@use "./layouts/projects";
